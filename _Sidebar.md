@@ -1,3 +1,0 @@
-# Salesforce  
-# Talend  
-# Misc
